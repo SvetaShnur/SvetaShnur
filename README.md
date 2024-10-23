@@ -9,7 +9,7 @@ I'm a Junior QA Engineer, I finished the course and realized that I want to deve
 
 ## **Skills**
 
-* Basic testing theory (types of testing, test design techniques)
+* Basic testing theory (***types of testing***, ***test design techniques***)
 * Understanding the role of a tester in a team (interaction with developers, analysts, managers)
 * Classification of testing types (functional, regression, integration, system)
 * Creation and optimization of test documentation
@@ -17,14 +17,14 @@ I'm a Junior QA Engineer, I finished the course and realized that I want to deve
   * ***test cases***
   * ***test suite*** 
   * ***bug reports***
-* Hands-on experience with TestRail, including creating and managing test suites
-* Understanding of STLC, SDLC, QA processes and methodologies
+* Hands-on experience with ***TestRail***, including creating and managing test suites
+* Understanding of ***STLC***, ***SDLC***, ***QA*** processes and methodologies
 * Understanding of agile methodologies (Scrum, Kanban) and participation in sprints/task boards
 * User interface (UI) testing using ***Figma***, ***Perfect Pixel***, ***Photoshop***
 * Testing with DevTools (***DOM analysis***, ***JavaScript errors***, ***network requests***)
 * API testing (***Postman***, ***Swagger***)
 * Database testing (queries to one and several tables)
-* Analyzing databases and relationships between tables using dbdiagram.io
+* Analyzing databases and relationships between tables using ***dbdiagram.io***
 * Basic understanding of ***HTML***, ***CSS***, ***SQL***, ***XML***, ***JSON***
 * Version control with ***Git*** and ***GitHub***
 
@@ -36,12 +36,12 @@ I'm a Junior QA Engineer, I finished the course and realized that I want to deve
 
 QA Manual courses at the international online university of modern professions GetEd
 March 2023 - June 2023  
-[Certificate](https://drive.google.com/drive/folders/1BjeZq-eiy8i_-Pk8-D5tBWOchdBF2lq3?usp=drive_link) of completion of courses
+[**Certificate**](https://drive.google.com/drive/folders/1BjeZq-eiy8i_-Pk8-D5tBWOchdBF2lq3?usp=drive_link) of completion of courses
 
 ## **Portfolio**
 
-* [API](https://github.com/SvetaShnur/Portfolio/tree/main/API)
-* [Databases](https://github.com/SvetaShnur/Portfolio/tree/main/Databases)
-* [Example - XML and Json](https://github.com/SvetaShnur/Portfolio/tree/main/Example%20-%20XML%20%D1%82%D0%B0%20JSON)
-* [Test desing techniques](https://github.com/SvetaShnur/Portfolio/tree/main/Test%20design%20techniques)
-* [Example-Requirements-User Story-Acceptance Criteria](https://github.com/SvetaShnur/Portfolio/blob/main/Example%20-%20Requirements%20-%20User%20Story%20-%20Acceptance%20Criteria.docx)
+* [**API**](https://github.com/SvetaShnur/Portfolio/tree/main/API)
+* [**Databases**](https://github.com/SvetaShnur/Portfolio/tree/main/Databases)
+* [**Example - XML and Json**](https://github.com/SvetaShnur/Portfolio/tree/main/Example%20-%20XML%20%D1%82%D0%B0%20JSON)
+* [**Test desing techniques**](https://github.com/SvetaShnur/Portfolio/tree/main/Test%20design%20techniques)
+* [**Example-Requirements-User Story-Acceptance Criteria**](https://github.com/SvetaShnur/Portfolio/blob/main/Example%20-%20Requirements%20-%20User%20Story%20-%20Acceptance%20Criteria.docx)
