@@ -1,43 +1,44 @@
 ![logo](img/4.JPG)
 
-# About me
+# **About me**
 I'm a Junior QA Engineer, I finished the course and realized that I want to develop further in this business, because in this profession there are no limits to unleash your potential and continuous development. Testing is a very important business that allows you to produce a quality product that will satisfy both the customer and the user. My goal is to become a professional tester who ensures high quality products.
 
-## Socials
+## **Socials**
 
-<p align="left"> <a href="https://www.github.com/SvetaShnur" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/svetochhek/profilecard/?igsh=MWw3ODdwZjljaDVuaA==" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sveta-shnur-a87598285" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/SvetaShnur" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/svetochhek/profilecard/?igsh=MWw3ODdwZjljaDVuaA==" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/svetlana-shnur-a87598285" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-## Skills
+## **Skills**
+
 * Basic testing theory (types of testing, test design techniques)
 * Understanding the role of a tester in a team (interaction with developers, analysts, managers)
 * Classification of testing types (functional, regression, integration, system)
 * Creation and optimization of test documentation
-  * checklists 
-  * test cases
-  * test suite 
-  * bug reports
+  * ***checklists*** 
+  * ***test cases***
+  * ***test suite*** 
+  * ***bug reports***
 * Hands-on experience with TestRail, including creating and managing test suites
 * Understanding of STLC, SDLC, QA processes and methodologies
 * Understanding of agile methodologies (Scrum, Kanban) and participation in sprints/task boards
-* User interface (UI) testing using Figma, Perfect Pixel, Photoshop
-* Testing with DevTools (DOM analysis, JavaScript errors, network requests)
-* API testing (Postman, Swagger)
+* User interface (UI) testing using ***Figma***, ***Perfect Pixel***, ***Photoshop***
+* Testing with DevTools (***DOM analysis***, ***JavaScript errors***, ***network requests***)
+* API testing (***Postman***, ***Swagger***)
 * Database testing (queries to one and several tables)
 * Analyzing databases and relationships between tables using dbdiagram.io
-* Basic understanding of HTML, CSS, SQL, XML, JSON
-* Version control with Git and GitHub
+* Basic understanding of ***HTML***, ***CSS***, ***SQL***, ***XML***, ***JSON***
+* Version control with ***Git*** and ***GitHub***
 
-## Tools
+## **Tools**
 
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
   
-## Education:
+## **Education**
 
 QA Manual courses at the international online university of modern professions GetEd
 March 2023 - June 2023  
 [Certificate](https://drive.google.com/drive/folders/1BjeZq-eiy8i_-Pk8-D5tBWOchdBF2lq3?usp=drive_link) of completion of courses
 
-## Portfolio
+## **Portfolio**
 
 * [API](https://github.com/SvetaShnur/Portfolio/tree/main/API)
 * [Databases](https://github.com/SvetaShnur/Portfolio/tree/main/Databases)
