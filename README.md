@@ -1,4 +1,4 @@
-![logo](img/4.JPG)
+![logo](img/logoo.JPG)
 
 # **About me**
 I'm a Junior QA Engineer, I finished the course and realized that I want to develop further in this business, because in this profession there are no limits to unleash your potential and continuous development. Testing is a very important business that allows you to produce a quality product that will satisfy both the customer and the user. My goal is to become a professional tester who ensures high quality products.
@@ -48,5 +48,5 @@ March 2023 - June 2023
 
 ## **Resume**
 
-* [Resume in English](https://github.com/SvetaShnur/Resume/blob/main/Resume%20Svitlana%20Shnur.pdf)
-* [Resume in Ukrainian](https://github.com/SvetaShnur/Resume/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%A1%D0%B2%D1%96%D1%82%D0%BB%D0%B0%D0%BD%D0%B0%20%D0%A8%D0%BD%D1%83%D1%80.pdf)
+* [**Resume in English**](https://github.com/SvetaShnur/Resume/blob/main/Resume%20Svitlana%20Shnur.pdf)
+* [**Resume in Ukrainian**](https://github.com/SvetaShnur/Resume/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%A1%D0%B2%D1%96%D1%82%D0%BB%D0%B0%D0%BD%D0%B0%20%D0%A8%D0%BD%D1%83%D1%80.pdf)
