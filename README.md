@@ -45,3 +45,8 @@ March 2023 - June 2023
 * [**Example - XML and Json**](https://github.com/SvetaShnur/Portfolio/tree/main/Example%20-%20XML%20%D1%82%D0%B0%20JSON)
 * [**Test desing techniques**](https://github.com/SvetaShnur/Portfolio/tree/main/Test%20design%20techniques)
 * [**Example-Requirements-User Story-Acceptance Criteria**](https://github.com/SvetaShnur/Portfolio/blob/main/Example%20-%20Requirements%20-%20User%20Story%20-%20Acceptance%20Criteria.docx)
+
+## **Resume**
+
+* [Resume in English](https://github.com/SvetaShnur/Resume/blob/main/Resume%20Svitlana%20Shnur.pdf)
+* [Resume in Ukrainian](https://github.com/SvetaShnur/Resume/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%A1%D0%B2%D1%96%D1%82%D0%BB%D0%B0%D0%BD%D0%B0%20%D0%A8%D0%BD%D1%83%D1%80.pdf)
